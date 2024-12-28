@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Sem 3\\Pemrograman lanjut\\SevenSummit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|D:\\Sem 3\\Pemrograman lanjut\\SevenSummit\\sevensummit\\model\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|solutionrelative:sevensummit\\model\\context\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|D:\\Sem 3\\Pemrograman lanjut\\SevenSummit\\sevensummit\\model\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|solutionrelative:sevensummit\\model\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|D:\\Sem 3\\Pemrograman lanjut\\SevenSummit\\sevensummit\\model\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|solutionrelative:sevensummit\\model\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|d:\\sem 3\\pemrograman lanjut\\sevensummit\\sevensummit\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|solutionrelative:sevensummit\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|D:\\Sem 3\\Pemrograman lanjut\\SevenSummit\\sevensummit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A258400-7BB2-4F35-9A59-CD72E7F2FBC0}|SevenSummit\\SevenSummit.csproj|solutionrelative:sevensummit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Sem 3\\Pemrograman lanjut\\SevenSummit\\SevenSummit\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "SevenSummit\\Controller\\UserController.cs",
+              "ToolTip": "D:\\Sem 3\\Pemrograman lanjut\\SevenSummit\\SevenSummit\\Controller\\UserController.cs",
+              "RelativeToolTip": "SevenSummit\\Controller\\UserController.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T15:33:12.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Sem 3\\Pemrograman lanjut\\SevenSummit\\SevenSummit\\Model\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SevenSummit\\Model\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Sem 3\\Pemrograman lanjut\\SevenSummit\\SevenSummit\\Model\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "SevenSummit\\Model\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwFgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:58:55.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Sem 3\\Pemrograman lanjut\\SevenSummit\\SevenSummit\\Model\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "SevenSummit\\Model\\Entity\\User.cs",
+              "ToolTip": "D:\\Sem 3\\Pemrograman lanjut\\SevenSummit\\SevenSummit\\Model\\Entity\\User.cs",
+              "RelativeToolTip": "SevenSummit\\Model\\Entity\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T07:53:29.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\Sem 3\\Pemrograman lanjut\\SevenSummit\\SevenSummit\\Model\\Context\\DbContext.cs",
+              "RelativeDocumentMoniker": "SevenSummit\\Model\\Context\\DbContext.cs",
+              "ToolTip": "D:\\Sem 3\\Pemrograman lanjut\\SevenSummit\\SevenSummit\\Model\\Context\\DbContext.cs",
+              "RelativeToolTip": "SevenSummit\\Model\\Context\\DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBkAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:39:56.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Sem 3\\Pemrograman lanjut\\SevenSummit\\SevenSummit\\Form1.cs",
+              "RelativeDocumentMoniker": "SevenSummit\\Form1.cs",
+              "ToolTip": "D:\\Sem 3\\Pemrograman lanjut\\Rekomendasi kegiatan\\SevenSummit\\SevenSummit\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Rekomendasi kegiatan\\SevenSummit\\SevenSummit\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:25:23.807Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 161,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

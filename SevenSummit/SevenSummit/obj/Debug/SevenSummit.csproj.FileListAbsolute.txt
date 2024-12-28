@@ -1,0 +1,84 @@
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\SevenSummit.exe.config
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\SevenSummit.exe
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\SevenSummit.pdb
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\Google.Protobuf.dll
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\K4os.Compression.LZ4.dll
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\K4os.Hash.xxHash.dll
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\MySql.Data.dll
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\System.Buffers.dll
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\System.IO.Pipelines.dll
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\System.Memory.dll
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\System.Numerics.Vectors.dll
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\ZstdSharp.dll
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\Google.Protobuf.pdb
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\Google.Protobuf.xml
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\K4os.Compression.LZ4.xml
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\K4os.Hash.xxHash.xml
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\MySql.Data.xml
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\System.Buffers.xml
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\System.IO.Pipelines.xml
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\System.Memory.xml
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\System.Numerics.Vectors.xml
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\obj\Debug\SevenSummit.csproj.AssemblyReference.cache
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\obj\Debug\SevenSummit.Properties.Resources.resources
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\obj\Debug\SevenSummit.csproj.GenerateResource.cache
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\obj\Debug\SevenSummit.csproj.CoreCompileInputs.cache
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\obj\Debug\SevenSum.1CAC2112.Up2Date
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\obj\Debug\SevenSummit.exe
+D:\Sem 3\Pemrograman lanjut\Rekomendasi kegiatan\SevenSummit\SevenSummit\obj\Debug\SevenSummit.pdb
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\SevenSummit.exe.config
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\SevenSummit.exe
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\SevenSummit.pdb
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\Google.Protobuf.dll
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\K4os.Compression.LZ4.dll
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\K4os.Hash.xxHash.dll
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\MySql.Data.dll
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\System.Buffers.dll
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\System.IO.Pipelines.dll
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\System.Memory.dll
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\System.Numerics.Vectors.dll
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\ZstdSharp.dll
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\Google.Protobuf.pdb
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\Google.Protobuf.xml
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\K4os.Compression.LZ4.xml
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\K4os.Hash.xxHash.xml
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\MySql.Data.xml
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\System.Buffers.xml
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\System.IO.Pipelines.xml
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\System.Memory.xml
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\System.Numerics.Vectors.xml
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\obj\Debug\SevenSummit.csproj.AssemblyReference.cache
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\obj\Debug\SevenSummit.Properties.Resources.resources
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\obj\Debug\SevenSummit.csproj.GenerateResource.cache
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\obj\Debug\SevenSummit.csproj.CoreCompileInputs.cache
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\obj\Debug\SevenSum.1CAC2112.Up2Date
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\obj\Debug\SevenSummit.exe
+D:\Sem 3\Pemrograman lanjut\SevenSummit\SevenSummit\obj\Debug\SevenSummit.pdb
